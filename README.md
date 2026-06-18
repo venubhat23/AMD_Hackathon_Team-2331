@@ -292,9 +292,9 @@ pip install -r requirements.txt
 
 | Member | Role |
 |---|---|
-| Yogaraaj K| [Role] |
-| Bhanu Kantimahanti| [Role] |
-| Venugopal Bhat | [Role] |
+| Yogaraaj K| [Research & Architecture] |
+| Bhanu Kantimahanti| [Coding & AI Pipeline] |
+| Venugopal Bhat | [Business Case & Presentation] |
 
 ---
 
